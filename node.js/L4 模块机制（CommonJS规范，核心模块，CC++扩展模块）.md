@@ -2,4 +2,4 @@
 @(Web Development)[node.js]
 iOS app webwidget
 
-Wos 个人博客: [地址](www.dagaiwan.com)
+Wos 个人博客: [地址](http://www.dagaiwan.com)
