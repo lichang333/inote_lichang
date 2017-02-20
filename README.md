@@ -1,2 +1,2 @@
 # inote_lichang
-my node
+my note
